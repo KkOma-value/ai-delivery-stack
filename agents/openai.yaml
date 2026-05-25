@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI Delivery Stack"
+  short_description: "Orchestrate OpenSpec, Superpowers, and gstack"
+  default_prompt: "Use $ai-delivery-stack to choose the right OpenSpec, Superpowers, and gstack workflow for this engineering task."
+
+policy:
+  allow_implicit_invocation: true
